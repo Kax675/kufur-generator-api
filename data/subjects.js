@@ -1,0 +1,23 @@
+exports.subjects = [
+    "ananın",
+    "babanın",
+    "dayının",
+    "teyzenin",
+    "halanın",
+    "amcanın",
+    "dedenin",
+    "ninenin",
+    "ebenin",
+    "validenin",
+    "ilkokul öğretmeninin",
+    "lise öğretmeninin",
+    "üniversite öğretim üyesinin",
+    "kuzeninin",
+    "bacının",
+    "ablanın",
+    "kardeşinin",
+    "kayınvalidenin",
+    "kayınpederin",
+    "kayınbiraderin",
+    
+];

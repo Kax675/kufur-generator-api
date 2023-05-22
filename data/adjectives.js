@@ -1,0 +1,20 @@
+exports.adjectives = [
+    "kör",
+    "yaşlı",
+    "ölmüş",
+    "konuşmadığın",
+    "bunak",
+    "komadaki",
+    "baygın",
+    "hasta",
+    "şaşı",
+    "nefes darlığı çeken",
+    "tanga giyen",
+    "kokan",
+    "kanserli",
+    "kanser olmuş",
+    "otistik",
+    "sakat",
+    "down sendromlu",
+
+];
