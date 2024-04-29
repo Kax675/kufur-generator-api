@@ -23,9 +23,10 @@ const { subjects } = require('./data/subjects.js');
 const { suffix_status, suffix_orientation } = require('./data/predicates.js');
 const express = require('express');
 const app = express();
+const path = require('path');
 
 //public
-app.use(express.static('public'));
+app.use(express.static(path.join(__dirname, 'public')));
 
 function getRandom(array) {
     return array[Math.floor(Math.random() * array.length)];
