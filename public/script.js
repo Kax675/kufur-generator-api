@@ -1,12 +1,13 @@
 
 const copyButton = document.querySelector('#copy-button');
 const swear = document.querySelector('#swear');
+const code = document.querySelector('code');
 let timeout;
 function copy() {
     clearTimeout(timeout);
     navigator.clipboard.writeText(swear.textContent);
-   copyButton.classList.add('copied');
+    code.classList.add('copied');
    timeout = setTimeout(() => {
-       copyButton.classList.remove('copied');
+       code.classList.remove('copied');
    }, 1000);
 }
