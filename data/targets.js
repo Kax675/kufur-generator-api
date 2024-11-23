@@ -60,6 +60,10 @@ exports.targets = [
         suffix_status: "da",
         suffix_orientation: "a"
     },
-
+    {
+        main: "burun deliklerin",
+        suffix_status: "da",
+        suffix_orientation: "e"
+    },
 
 ];

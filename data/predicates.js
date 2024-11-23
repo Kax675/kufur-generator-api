@@ -23,7 +23,9 @@ exports.suffix_status = [
     "dolar bozdururum",
     "hayır çeşmesi açarım",
     "izinsiz gösteri düzenlerim",
-    "bitcoin alışverişi yaparım"
+    "bitcoin alışverişi yaparım",
+    "piknik yaparım",
+    "tavla oynarım",
 ],
 
 exports.suffix_orientation = [
@@ -55,5 +57,8 @@ exports.suffix_orientation = [
     "noter açarım",
     "tarıma elverişli arazi izni veririm",
     "öyle bir sokarım ki myspace parolasını hatırlar",
-    "kızgın demiri ters sokarım, tutup çıkaramaz"
+    "kızgın demiri ters sokarım, tutup çıkaramaz",
+    "kaymakam atarım",
+    "kaymakam atanırım",
+    "tüp sokarım",
 ]

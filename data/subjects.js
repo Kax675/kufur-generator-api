@@ -8,6 +8,9 @@ exports.subjects = [
     "dedenin",
     "ninenin",
     "ebenin",
+    "bacının",
+    "ablanın",
+    "hürriyetinin",
     "validenin",
     "ilkokul öğretmeninin",
     "lise öğretmeninin",
@@ -19,5 +22,4 @@ exports.subjects = [
     "kayınvalidenin",
     "kayınpederin",
     "kayınbiraderin",
-    
 ];
